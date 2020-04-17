@@ -1,9 +1,9 @@
 # Setup
 title: Potential Yearnings
 tagline: 
-url: https://mehdi-amine.github.io/potential-yearnings/
+url: 
 paginate: 1
-baseurl: https://mehdi-amine.github.io/potential-yearnings/
+baseurl: "potential-yearnings"
 permalink: pretty
 
 # Gems
