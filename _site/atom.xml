@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Potential Yearnings</title>
- <link href="/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-04-17T13:55:10+01:00</updated>
+ <link href="/https://mehdi-amine.github.io/potential-yearnings/atom.xml" rel="self"/>
+ <link href="http://localhost:4000https://mehdi-amine.github.io/potential-yearnings//"/>
+ <updated>2020-04-17T14:03:23+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Mehdi Amine</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Perceptrons</title>
-   <link href="http://localhost:4000/2020/04/04/perceptrons/"/>
+   <link href="http://localhost:4000https://mehdi-amine.github.io/potential-yearnings//2020/04/04/perceptrons/"/>
    <updated>2020-04-04T00:00:00+01:00</updated>
    <id>http://localhost:4000/2020/04/04/perceptrons</id>
    <content type="html">&lt;h1 id=&quot;perceptron-overview&quot;&gt;Perceptron: Overview&lt;/h1&gt;
