@@ -3,7 +3,7 @@ title: Potential Yearnings
 tagline: 
 url: "https://mehdi-amine.github.io/potential-yearnings/"
 paginate: 1
-baseurl: "potential-yearnings"
+baseurl: "/potential-yearnings"
 permalink: pretty
 
 # Gems
