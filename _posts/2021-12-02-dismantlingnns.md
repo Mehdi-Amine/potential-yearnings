@@ -1,3 +1,9 @@
+---
+layout: post
+title: Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch
+subtitle:  
+---
+
 # Dismantling Neural Networks to Understand the Inner Workings with Math and Pytorch
 ## Motivation
 As a child, you might have dismantled a toy in a moment of frenetic curiosity. You were drawn perhaps towards the source of the sound it made. Or perhaps it was a tempting colorful light from a diode that called you forth, moved your hands into cracking the plastic open.
